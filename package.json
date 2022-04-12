@@ -12,6 +12,6 @@
     "cache-manager": "^2.10.0",
     "express": "^4.17.1",
     "fs-extra": "^8.1.0",
-    "simple-git": "^1.124.0"
+    "simple-git": "^3.5.0"
   }
 }
